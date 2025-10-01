@@ -7,7 +7,7 @@ from sort import Ordenacao
 # ------------------------------
 # 1. Geração de dados
 # ------------------------------
-N = 100000
+N = 1000
 produtos = Produto.gerar_produtos(N)
 
 # ------------------------------
